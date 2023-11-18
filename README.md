@@ -18,5 +18,6 @@ FERRAMENTAS UTILIZADAS:
 
 Depois de capturar o e-mail e senha, esses serão os resultados:
 
-![image](https://github.com/Giozao/oliveiragio/assets/151280204/b02e6fc0-4307-4fe0-890b-dbe77beb19bc)
+![image](https://github.com/Giozao/oliveiragio/assets/151280204/e5a67ed5-63ca-4dc4-9dcc-71ed56aae0d7)
+
 
