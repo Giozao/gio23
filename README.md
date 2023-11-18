@@ -5,6 +5,8 @@ FERRAMENTAS UTILIZADAS:
 - KALI LINUX
 - SETOOLKIT
 
+
+
   PASSOS:
   - Acessar o Kali e entrar como usuário root: sudo su
   - Iniciar o setoolkit: setoolkit
@@ -15,6 +17,8 @@ FERRAMENTAS UTILIZADAS:
   - Para obter o IP da máquina: ifconfig
   - Escolha o template: Google
   - URL para clone: http://www.google.com/
+
+
 
 Depois de capturar o e-mail e senha, esses serão os resultados:
 
